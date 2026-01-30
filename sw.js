@@ -1,4 +1,4 @@
-const CACHE_NAME = "tap-speak-v1";
+const CACHE_NAME = "tap-speak-v2";
 
 const ASSETS = [
   "./",
